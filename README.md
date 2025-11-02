@@ -1,19 +1,8 @@
-# 🎈 Blank app template
+# Sports Predictor App
 
-A simple Streamlit app template for you to modify!
+Aplicación web para predecir resultados deportivos usando inteligencia artificial.
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://blank-app-template.streamlit.app/)
+## Cómo usar
 
-### How to run it on your own machine
-
-1. Install the requirements
-
-   ```
-   $ pip install -r requirements.txt
-   ```
-
-2. Run the app
-
-   ```
-   $ streamlit run streamlit_app.py
-   ```
+1. Ejecuta `train_model.py` para generar el modelo.
+2. Ejecuta `streamlit run app.py` para iniciar la app localmente.
